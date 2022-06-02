@@ -33,4 +33,6 @@ public class multipleinheritance  {
         a.method2();
         a.method3();
     }
+
+    
 }
